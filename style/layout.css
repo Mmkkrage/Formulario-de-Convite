@@ -17,7 +17,7 @@ aside {
 .aside_content {
   max-width: 25rem;
   height: 45.5rem;
-  background-image: url(/assets/Background.png);
+  background-image: url(../assets/Background.png);
   background-repeat: no-repeat;
   background-size: contain;
   border-radius: 0.75rem;
